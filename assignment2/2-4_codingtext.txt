@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdbool.h>
+#include <stdlib.h>
+
+// dots_rows는 2차원 배열 dots의 행 길이, dots_cols는 2차원 배열 dots의 열 길이입니다.
+bool tempfunc(double a, double b, double c, double d){
+    if(a / b == c / d) return true;
+    
+    return false;
+}
+
+int solution(int** dots, size_t dots_rows, size_t dots_cols) {
+    if(tempfunc((double)(dots[0][0] - dots[1][0]), (double)(dots[0][1] - dots[1][1])
+                   ,(double)(dots[2][0] - dots[3][0]), (double)(dots[2][1] - dots[3][1])))
+        return 1;
+    
+    if(tempfunc((double)(dots[0][0] - dots[2][0]), (double)(dots[0][1] - dots[2][1])
+                   ,(double)(dots[1][0] - dots[3][0]), (double)(dots[1][1] - dots[3][1])))
+        return 1;
+    
+    if(tempfunc((double)(dots[0][0] - dots[3][0]), (double)(dots[0][1] - dots[3][1])
+                   ,(double)(dots[1][0] - dots[2][0]), (double)(dots[1][1] - dots[2][1])))
+        return 1;
+    
+    return 0;
+}

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\test\\assignment1\\kimsinhaeng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CBackgroundDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\CBackgroundDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\CThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glimDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\glimDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glimDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\glimDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CBackgroundDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\CBackgroundDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glim.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\glim.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\mutex||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\CThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11039EF-D471-34F3-BC86-96495D435390}|glim\\glim.vcxproj|solutionrelative:glim\\glim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "glim.rc - IDD_GLIM_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glim.rc",
+              "RelativeDocumentMoniker": "glim\\glim.rc",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glim.rc - IDD_GLIM_DIALOG - Dialog",
+              "RelativeToolTip": "glim\\glim.rc - IDD_GLIM_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-14T15:08:34.902Z",
+              "EditorCaption": " - IDD_GLIM_DIALOG - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mutex",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\mutex",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\mutex",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\mutex",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\mutex",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAgwBYCAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T14:18:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CThreadPool.cpp",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CThreadPool.cpp",
+              "RelativeDocumentMoniker": "glim\\CThreadPool.cpp",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CThreadPool.cpp",
+              "RelativeToolTip": "glim\\CThreadPool.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T10:59:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CThreadPool.h",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CThreadPool.h",
+              "RelativeDocumentMoniker": "glim\\CThreadPool.h",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CThreadPool.h",
+              "RelativeToolTip": "glim\\CThreadPool.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T10:58:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CBackgroundDlg.h",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CBackgroundDlg.h",
+              "RelativeDocumentMoniker": "glim\\CBackgroundDlg.h",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CBackgroundDlg.h",
+              "RelativeToolTip": "glim\\CBackgroundDlg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T14:05:13.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "glimDlg.h",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glimDlg.h",
+              "RelativeDocumentMoniker": "glim\\glimDlg.h",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glimDlg.h",
+              "RelativeToolTip": "glim\\glimDlg.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T12:43:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "glim.cpp",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glim.cpp",
+              "RelativeDocumentMoniker": "glim\\glim.cpp",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glim.cpp",
+              "RelativeToolTip": "glim\\glim.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T09:31:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "glimDlg.cpp",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glimDlg.cpp",
+              "RelativeDocumentMoniker": "glim\\glimDlg.cpp",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\glimDlg.cpp",
+              "RelativeToolTip": "glim\\glimDlg.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAIkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T08:54:12.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CBackgroundDlg.cpp",
+              "DocumentMoniker": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CBackgroundDlg.cpp",
+              "RelativeDocumentMoniker": "glim\\CBackgroundDlg.cpp",
+              "ToolTip": "C:\\project\\test\\assignment1\\kimsinhaeng\\glim\\CBackgroundDlg.cpp",
+              "RelativeToolTip": "glim\\CBackgroundDlg.cpp",
+              "ViewState": "AgIAACgBAAAAAAAAAAAQwEwBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T08:54:53.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
